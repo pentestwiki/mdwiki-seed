@@ -4,22 +4,21 @@
 
 [Web Pentesting]()
 
-  * [Windows](presence/windows/index.md)
-  * [Linux](presence/linux/index.md)
-  * [OSX](presence/osx/index.md)
+  * [Reconnaissance](pages/webpentest.md)
+  * [Enumeration](pages/webpentest.md)
+  * [Exploitation and Post](pages/webpentest.md)
 
 [Network Pentesting]()
 
-  * [Windows](persistence/windows/index.md)
-  * [Linux](persistence/linux/index.md)
-  * [OSX](persistence/osx/index.md)
-  * [Universal](persistence/multi/index.md)
+  * [Reconnaissance](pages/webpentest.md)
+  * [Enumeration](pages/webpentest.md)
+  * [Exploitation and Post](pages/webpentest.md)
 
 [Wireless Pentesting]()
 
-  * [Windows](pivoting/windows/index.md)
-  * [Linux](pivoting/linux/index.md)
-  * [OSX](pivoting/osx/index.md)
+  * [Reconnaissance](pages/webpentest.md)
+  * [Enumeration](pages/webpentest.md)
+  * [Exploitation and Post](pages/webpentest.md)
 
 [VOIP Pentesting]()
 
