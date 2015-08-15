@@ -20,7 +20,9 @@
   -->
 
 [About](pages/about.md)
-[Download](pages/download.md)
+[Web Pentest](pages/webpentest.md)
+[Wireless Pentest](pages/wireless.md)
+[Network Pentest](pages/network.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
