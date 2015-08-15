@@ -4,9 +4,9 @@
 
 [Web Pentesting]()
 
-  * [Reconnaissance](pages/webpentest.md)
-  * [Enumeration](pages/webpentest.md)
-  * [Exploitation and Post](pages/webpentest.md)
+  * [Windows](presence/windows/index.md)
+  * [Linux](presence/linux/index.md)
+  * [OSX](presence/osx/index.md)
 
 [Network Pentesting]()
 
