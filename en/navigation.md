@@ -4,9 +4,9 @@
 
 [Web Pentesting]()
 
-  * [Windows](presence/windows/index.md)
-  * [Linux](presence/linux/index.md)
-  * [OSX](presence/osx/index.md)
+  * [Windows](pages/webpentest.m)
+  * [Linux](pages/webpentest.m)
+  * [OSX](pages/webpentest.m)
 
 [Network Pentesting]()
 
