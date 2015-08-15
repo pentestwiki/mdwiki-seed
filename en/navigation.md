@@ -1,33 +1,33 @@
-#Pentest Wiki
+#Pentestwiki
 
 [Home](index.md)
 
-[Presence]()
+[Web Pentesting]()
 
   * [Windows](presence/windows/index.md)
   * [Linux](presence/linux/index.md)
   * [OSX](presence/osx/index.md)
 
-[Persistence]()
+[Network Pentesting]()
 
   * [Windows](persistence/windows/index.md)
   * [Linux](persistence/linux/index.md)
   * [OSX](persistence/osx/index.md)
   * [Universal](persistence/multi/index.md)
 
-[Pivoting]()
+[Wireless Pentesting]()
 
   * [Windows](pivoting/windows/index.md)
   * [Linux](pivoting/linux/index.md)
   * [OSX](pivoting/osx/index.md)
 
-[Privilege Escalation]()
+[VOIP Pentesting]()
 
   * [Windows](privesc/windows/index.md)
   * [Linux](privesc/linux/index.md)
   * [OSX](privesc/osx/index.md)
 
-[Technologies]()
+[Mobile APP Pentesting]()
 
   * [Mobile](tech/mobile/index.md)
   * [Mainframes](tech/mainframes/index.md)
@@ -38,32 +38,6 @@
   * [Network Services](tech/services/index.md)
   * [Databases](tech/db/index.md)
   * [Novell](tech/novell.md)
-
-[Binaries]()
-
-  * [Windows](bins/windows/index.md)
-  * [Linux](bins/linux/index.md)
-  * [OSX](bins/osx/index.md)
-  * [Universal](bins/multi/index.md)
-
-[Scripting]()
-
-  * [Python](scripting/python.md)
-  * [Powershell](scripting/powershell.md)
-  * [Ruby](scripting/ruby.md)
-  * [Perl](scripting/perl.md)
-  * [Windows](scripting/windows.md)
-  * [NodeJS](scripting/NodeJS.md)
-  * [Linux bash](scripting/bash.md)
-
-[Metasploit]()
-
-  * [Meterpreter](msf/meterpreter.md)
-  * [Auxiliary Modules](msf/aux.md)
-  * [Exploit Modules](msf/exploit.md)
-  * [Post Modules](msf/post.md)
-  * [Railgun](msf/railgun.md)
-  * [MSF Tools](msf/tools.md)
   
 [References]()
 
