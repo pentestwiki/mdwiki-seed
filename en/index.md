@@ -1,4 +1,4 @@
-# It works! ;-)
+# The Penetration Testing Wiki
 
 
 ## Section 1
