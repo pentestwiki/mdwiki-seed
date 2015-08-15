@@ -26,7 +26,7 @@
   * [Enumeration](pages/webpentest.md)
   * [Exploitation and Post](pages/webpentest.md)
 
-[Mobile APP Pentesting]()
+[Mobile App Pentesting]()
 
   * [Reconnaissance](pages/webpentest.md)
   * [Enumeration](pages/webpentest.md)
