@@ -18,7 +18,7 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-[About]()
+[[About]()
  *[who we are](pages/about.md)
 [[Web Pentest]()
 
