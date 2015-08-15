@@ -26,12 +26,4 @@
  *[Reconnaissance](pages/webpentest.md)
  *[Enumeration](pages/webpentest.md)
  *[Exploitation and Post](pages/webpentest.md)
- <script type="text/javascript"> 
-$(document).ready(function() { 
-$('div.view').hide(); 
-$('div.slide').click(function() {
-$(this).next('div.view').slideToggle('fast'); 
-return false; 
-}); 
-}); 
-</script>
+
