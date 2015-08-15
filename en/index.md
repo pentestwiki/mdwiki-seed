@@ -1,4 +1,4 @@
-# The Penetration Testing Wiki
+# The Pentesting Wiki
 
 
 ## Section 1
