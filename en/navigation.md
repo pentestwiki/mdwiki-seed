@@ -18,11 +18,20 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
-
-[About](pages/about.md)
-[Web Pentest](pages/webpentest.md)
-[Wireless Pentest](pages/wireless.md)
-[Network Pentest](pages/network.md)
+[Presence]()
+*[About](pages/about.md)
+[Web Pentest]()
+*[Reconnaissance](pages/webpentest.md)
+*[Enumeration](pages/webpentest.md)
+*[Exploitation and Post](pages/webpentest.md)
+[Wireless Pentest]()
+*[Reconnaissance](pages/webpentest.md)
+*[Enumeration](pages/webpentest.md)
+*[Exploitation and Post](pages/webpentest.md)
+[Wireless Pentest]()
+*[Reconnaissance](pages/webpentest.md)
+*[Enumeration](pages/webpentest.md)
+*[Exploitation and Post](pages/webpentest.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
