@@ -34,7 +34,7 @@
   
 [References]()
 
-  * [How to Contribute]
+  * [How to Contribute](pages/webpentest.md)
 
 [gimmick:themechooser](Wiki Theme)
 
