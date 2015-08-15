@@ -1,9 +1,9 @@
 # The Pentesting Wiki
 
 
-## Section 1
+## Intro
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
+this website is intended to help pentesters execute and perform various penetration testing projects efficiently. this site will include tools, techniques and methodologies that could be used by a penetration testing team while performing the project. 
 
 
 ## Section 2
