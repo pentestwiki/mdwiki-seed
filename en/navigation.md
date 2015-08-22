@@ -4,7 +4,7 @@
 
 [Web Pentesting]()
 
-  * [Introduction](webpentesting/intro.md)
+  * [Introduction](pages/webpentest.md)
   * [Reconnaissance](pages/webpentest.md)
   * [Enumeration](pages/webpentest.md)
   * [Exploitation and Post](pages/webpentest.md)
